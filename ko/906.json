@@ -85,6 +85,7 @@
 "spDef":65,
 "speed":45,
 "total":318},
+"cards":[],
 "moves":{"levelUp":[{"level":1,
 "category":"변화",
 "move":"울음소리",
