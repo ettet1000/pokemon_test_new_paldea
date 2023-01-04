@@ -31,7 +31,7 @@
 "baseExp":"58",
 "growthRate":"Medium Slow"},
 "abilities":[{"name":"Unburden",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"Pickpocket",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"Poison Touch",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"Prankster (hidden)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
