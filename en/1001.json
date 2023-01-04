@@ -1,16 +1,16 @@
-        {
-        "number":"1001",
-        "name":                                                                                                                                      "Wo-Chien",
-        "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001.png",
-        "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001_thumb.png",
-        "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001_main.png"
-        },
-        "types": [
-                 "Dark",
-                 "Grass"
-        ],
-        "weaknesses":["Fire",
+{
+    "number":"1001",
+    "name":                                                                                                                                      "Wo-Chien",
+    "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001.png",
+    "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001_thumb.png",
+    "sprites": {
+    "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001_main.png"
+    },
+    "types": [
+             "Dark",
+             "Grass"
+    ],
+    "weaknesses":["Fire",
 "Psychic",
 "Flying",
 "Ice"],
@@ -52,6 +52,7 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001.png",
 "thumbUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1001_thumb.png",
 "type":"FIRST"}],
+"previousEvolutions":[],
 "nextEvolutions":[],
 "superEvolutions":[],
 "baseStats":{"hp":85,
