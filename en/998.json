@@ -1,16 +1,16 @@
-        {
-        "number":"998",
-        "name":                                                                                                                                      "Baxcalibur",
-        "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998.png",
-        "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998_thumb.png",
-        "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998_main.png"
-        },
-        "types": [
-                 "Dragon",
-                 "Ice"
-        ],
-        "weaknesses":["Fire",
+{
+    "number":"998",
+    "name":                                                                                                                                      "Baxcalibur",
+    "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998.png",
+    "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998_thumb.png",
+    "sprites": {
+    "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/998_main.png"
+    },
+    "types": [
+             "Dragon",
+             "Ice"
+    ],
+    "weaknesses":["Fire",
 "Psychic",
 "Flying",
 "Ice"],
@@ -424,6 +424,8 @@
 "category":"Special",
 "power":"80",
 "accuracy":"100%"}],
+"technicalRecords":[],
+"egg":[],
 "tutor":[],
 "evolution":[],
 "preEvolution":[]},
