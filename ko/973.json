@@ -1,6 +1,6 @@
         {
         "number":"973",
-        "name":                                                                                                                                      "꼬이밍고",
+        "name":                                                                  "꼬이밍고",
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/973.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/973_thumb.png",
         "sprites": {
@@ -363,12 +363,12 @@
 "category":"변화",
 "power":"—",
 "accuracy":"—%"},
-{"move":"Quick Guard*",
+{"move":"퍼스트가드*",
 "type":"Fighting",
 "category":"변화",
 "power":"—",
 "accuracy":"—%"},
-{"move":"Sky Attack",
+{"move":"불새",
 "type":"Flying",
 "category":"물리",
 "power":"140",

@@ -1,6 +1,6 @@
         {
         "number":"940",
-        "name":                                                                                                                                      "찌리비",
+        "name":                                                                  "찌리비",
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/940.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/940_thumb.png",
         "sprites": {
@@ -105,7 +105,7 @@
 "power":"40",
 "accuracy":"100%"},
 {"level":11,
-"move":"Pluck",
+"move":"쪼아대기",
 "type":"Flying",
 "category":"물리",
 "power":"60",

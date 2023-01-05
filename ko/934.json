@@ -1,6 +1,6 @@
         {
         "number":"934",
-        "name":                                                                                                                                      "콜로솔트",
+        "name":                                                                  "콜로솔트",
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/934.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/934_thumb.png",
         "sprites": {
@@ -197,7 +197,7 @@
 "power":"100",
 "accuracy":"80%"},
 {"level":60,
-"move":"Explosion",
+"move":"대폭발",
 "type":"Normal",
 "category":"물리",
 "power":"250",

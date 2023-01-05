@@ -1,6 +1,6 @@
         {
         "number":"972",
-        "name":                                                                                                                                      "묘두기",
+        "name":                                                                  "묘두기",
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/972.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/972_thumb.png",
         "sprites": {
@@ -90,7 +90,7 @@
 "power":"—",
 "accuracy":"100%"},
 {"level":1,
-"move":"Last Respects",
+"move":"성묘",
 "type":"Ghost",
 "category":"물리",
 "power":"50",

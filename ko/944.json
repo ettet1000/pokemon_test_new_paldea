@@ -1,6 +1,6 @@
         {
         "number":"944",
-        "name":                                                                                                                                      "땃쭈르",
+        "name":                                                                  "땃쭈르",
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/944.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/944_thumb.png",
         "sprites": {
@@ -350,7 +350,7 @@
 "power":"—",
 "accuracy":"—%"},
 {"technicalMachine":148,
-"move":"Sludge Bomb",
+"move":"오물폭탄",
 "type":"Poison",
 "category":"특수",
 "power":"90",
