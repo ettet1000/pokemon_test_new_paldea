@@ -33,7 +33,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"독가시",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"저수",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"천진 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"천진 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

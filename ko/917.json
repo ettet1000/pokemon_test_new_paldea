@@ -31,7 +31,7 @@
 "baseExp":"42",
 "growthRate":"불규칙"},
 "abilities":[{"name":"불면",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"잠복 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"잠복 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"2",

@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"마이페이스",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"정전기",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"습기 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"습기 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

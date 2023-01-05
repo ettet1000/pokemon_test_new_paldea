@@ -32,7 +32,7 @@
 "growthRate":"중간 느림"},
 "abilities":[{"name":"위협",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"도주",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"잠복 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"잠복 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

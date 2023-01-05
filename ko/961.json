@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"미끈미끈",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"주눅",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"모래숨기 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"모래숨기 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",

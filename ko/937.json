@@ -31,7 +31,7 @@
 "baseExp":"263",
 "growthRate":"느림"},
 "abilities":[{"name":"타오르는불꽃",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"깨어진갑옷 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"깨어진갑옷 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"0",
 "Fire":"½",

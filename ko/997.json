@@ -32,7 +32,7 @@
 "baseExp":"148",
 "growthRate":"느림"},
 "abilities":[{"name":"열교환",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"아이스바디 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"아이스바디 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

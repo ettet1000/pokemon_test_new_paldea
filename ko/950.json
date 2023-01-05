@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"분노의껍질",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"조가비갑옷",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"재생력 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"재생력 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"½",
 "Fire":"½",

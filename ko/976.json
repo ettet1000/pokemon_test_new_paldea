@@ -31,7 +31,7 @@
 "baseExp":"167",
 "growthRate":"빠름"},
 "abilities":[{"name":"틀깨기",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"예리함 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"예리함 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",

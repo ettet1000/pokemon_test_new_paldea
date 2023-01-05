@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"엽록소",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"불면",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"변덕쟁이 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"변덕쟁이 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

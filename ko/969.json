@@ -31,7 +31,7 @@
 "baseExp":"70",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"독치장",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"부식 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"부식 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"½",
 "Fire":"½",

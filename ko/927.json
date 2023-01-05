@@ -32,7 +32,7 @@
 "baseExp":"167",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"노릇노릇바디",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"아로마베일 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"아로마베일 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

@@ -31,7 +31,7 @@
 "baseExp":"62",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"맹화",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"천진 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"천진 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",

@@ -32,7 +32,7 @@
 "growthRate":"중간 느림"},
 "abilities":[{"name":"곡예",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"독수",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"짓궂은마음 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"짓궂은마음 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"의기양양",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"정신력",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"오기 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"오기 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"0",
 "Fire":"1",

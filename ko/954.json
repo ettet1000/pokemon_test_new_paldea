@@ -31,7 +31,7 @@
 "baseExp":"165",
 "growthRate":"빠름"},
 "abilities":[{"name":"싱크로",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"텔레파시 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"텔레파시 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"2",

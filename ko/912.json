@@ -32,7 +32,7 @@
 "baseExp":"62",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"급류",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"자기과신 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"자기과신 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",

@@ -31,7 +31,7 @@
 "baseExp":"240",
 "growthRate":"느림"},
 "abilities":[{"name":"흙먹기",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"모래숨기 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"모래숨기 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"½",
 "Fire":"2",

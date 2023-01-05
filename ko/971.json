@@ -31,7 +31,7 @@
 "baseExp":"58",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"픽업",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"복슬복슬 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"복슬복슬 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"0",
 "Fire":"1",

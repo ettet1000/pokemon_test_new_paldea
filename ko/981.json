@@ -32,7 +32,7 @@
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"되새김질",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"테일아머",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"초식 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"초식 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

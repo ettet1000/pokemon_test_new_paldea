@@ -31,7 +31,7 @@
 "baseExp":"158",
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"벌레의알림",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"색안경 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"색안경 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"2",

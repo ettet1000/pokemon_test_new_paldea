@@ -31,7 +31,7 @@
 "baseExp":"166",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"사령탑",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"마중물 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"마중물 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"¼",

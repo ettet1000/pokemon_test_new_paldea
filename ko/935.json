@@ -31,7 +31,7 @@
 "baseExp":"51",
 "growthRate":"느림"},
 "abilities":[{"name":"타오르는불꽃",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"불꽃몸 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"불꽃몸 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",

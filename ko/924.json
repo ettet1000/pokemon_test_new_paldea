@@ -30,7 +30,7 @@
 "growthRate":"빠름"},
 "abilities":[{"name":"도주",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"픽업",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"마이페이스 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"마이페이스 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

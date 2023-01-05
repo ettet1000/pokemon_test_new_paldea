@@ -32,7 +32,7 @@
 "growthRate":"불규칙"},
 "abilities":[{"name":"위협",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"의욕",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"근성 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"근성 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",

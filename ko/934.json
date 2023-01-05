@@ -32,7 +32,7 @@
 "growthRate":"중간 느림"},
 "abilities":[{"name":"정화의소금",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"옹골참",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"클리어바디 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"클리어바디 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"½",
 "Fire":"½",

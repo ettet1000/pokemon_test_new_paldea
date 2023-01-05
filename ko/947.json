@@ -31,7 +31,7 @@
 "baseExp":"168",
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"바람타기",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"틈새포착 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"틈새포착 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"0",
 "Fire":"2",

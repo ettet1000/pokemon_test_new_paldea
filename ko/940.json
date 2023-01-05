@@ -33,7 +33,7 @@
 "growthRate":"중간 느림"},
 "abilities":[{"name":"풍력발전",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"축전",
-"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"승기 (hidden)",
+"description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"승기 (히든)",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",
