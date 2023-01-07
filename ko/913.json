@@ -1,10 +1,10 @@
 {
-        "number":"912",
-        "name":                                                                  "꾸왁스",
-        "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912.png",
-        "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912_thumb.png",
+        "number":"913",
+        "name":                                                                  "아꾸왁",
+        "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/913.png",
+        "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/913_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/913_main.png"
         },
         "types": [
                  "Water"
@@ -14,11 +14,11 @@
 "Psychic",
 "Flying",
 "Ice"],
-"descriptions":["옛날에 머나먼 땅에서 찾아와 정착했다. 날개에서 분비되는 젤은 물과 먼지를 튕겨 낸다.",
-"유속이 빠른 강에서도 자유롭게 헤엄칠 수 있는 다릿심을 가졌다. 깔끔한 것을 좋아하며 집착이 강하다."],
-"specie":"꼬마오리",
-"height":"6.1 kg (13.4 lbs)",
-"weight":"0.5 m (1′08″)",
+"descriptions":["열심히 얕은 여울을 달리며 하반신을 단련하고, 동료들끼리 발 기술의 화려함을 겨룬다.",
+"다양한 지방의 포켓몬과 사람의 움직임을 보고 자신의 춤으로 승화시키는 노력가."],
+"specie":"레슨",
+"height":"21.5 kg (47.4 lbs)",
+"weight":"1.2 m (3′11″)",
 "breeding":{"egg":{"groups":["비행",
 "수중 1"],
 "cycle":"(5,140–5,396 걸음)"},
@@ -26,10 +26,10 @@
 "percentage":"87.5%"},
 {"type":"FEMALE",
 "percentage":"12.5%"}]},
-"training":{"evYield":"1 공격",
+"training":{"evYield":"2 공격",
 "catchRate":"45 (11.9% 포켓볼과 함께,풀 HP)",
 "baseFriendship":"50",
-"baseExp":"62",
+"baseExp":"144",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"급류",
 "description":"Powers up Grass-type moves when the Pokémon's HP is low."},{"name":"자기과신 (히든)",
