@@ -78,6 +78,7 @@
 "total":210},
 "cards":
 [],
+"soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/917.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Tackle",
 "type":"Normal",

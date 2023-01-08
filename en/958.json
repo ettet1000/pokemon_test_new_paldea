@@ -88,6 +88,7 @@
 "total":380},
 "cards":
 [],
+"soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/958.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Astonish",
 "type":"Ghost",
