@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/997.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/997_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/997_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/997_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/997.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/997.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/997.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/997.gif"
         },
         "types": [
                  "Dragon",

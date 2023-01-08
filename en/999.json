@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/999.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/999_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/999_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/999_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/999.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/999.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/999.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/999.gif"
         },
         "types": [
                  "Ghost"

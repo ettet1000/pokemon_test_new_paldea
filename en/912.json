@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/912_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/912.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/912.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/912.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/912.gif"
         },
         "types": [
                  "Water"
@@ -88,7 +92,13 @@
 "speed":50,
 "total":310},
 "cards":
-[],
+[{"number":"052",
+"name":"Quaxly",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/912_1.jpg"},{"number":"003",
+"name":"Quaxly",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/912_2.jpg"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/912.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Pound",

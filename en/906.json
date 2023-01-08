@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/906.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/906_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/906_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/906_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/906.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/906.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/906.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/906.gif"
         },
         "types": [
                  "Grass"
@@ -88,7 +92,13 @@
 "speed":65,
 "total":310},
 "cards":
-[],
+[{"number":"013",
+"name":"Sprigatito",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/906_1.jpg"},{"number":"001",
+"name":"Sprigatito",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/906_2.jpg"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/906.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Scratch",

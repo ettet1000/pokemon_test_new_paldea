@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/984.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/984_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/984_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/984_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/984.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/984.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/984.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/984.gif"
         },
         "types": [
                  "Ground",
@@ -63,7 +67,10 @@
 "speed":87,
 "total":570},
 "cards":
-[],
+[{"number":"049",
+"name":"Great Tusk",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/984.jpg"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/984.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Sunny Day",

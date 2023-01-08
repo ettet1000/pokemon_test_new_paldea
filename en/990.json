@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/990.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/990_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/990_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/990_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/990.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/990.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/990.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/990.gif"
         },
         "types": [
                  "Ground",
@@ -63,7 +67,10 @@
 "speed":106,
 "total":570},
 "cards":
-[],
+[{"number":"058",
+"name":"Iron Treads",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/990.jpg"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/990.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Electric Terrain",

@@ -4,7 +4,11 @@
         "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/971.png",
         "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/971_thumb.png",
         "sprites": {
-        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/971_main.png"
+        "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/971_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/971.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/971.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/971.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/971.gif"
         },
         "types": [
                  "Ghost"
@@ -77,7 +81,13 @@
 "speed":34,
 "total":290},
 "cards":
-[],
+[{"number":"046",
+"name":"Greavard",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/971_1.jpg"},{"number":"087",
+"name":"Greavard",
+"expansionName":"",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/971_2.jpg"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/971.ogg",
 "moves":{"levelUp":[{"level":1,
 "move":"Tackle",
