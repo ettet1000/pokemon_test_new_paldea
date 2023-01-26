@@ -7,8 +7,8 @@
         "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/944_main.png",
         "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944.gif",
         "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944.gif",
-        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944.gif",
-        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944.gif"
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/944s.gif"
         },
         "types": [
                  "Poison",

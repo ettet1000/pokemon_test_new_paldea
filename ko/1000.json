@@ -7,8 +7,8 @@
         "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1000_main.png",
         "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000.gif",
         "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000.gif",
-        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000.gif",
-        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000.gif"
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/1000s.gif"
         },
         "types": [
                  "Steel",

@@ -7,8 +7,8 @@
         "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/961_main.png",
         "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961.gif",
         "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961.gif",
-        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961.gif",
-        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961.gif"
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/961s.gif"
         },
         "types": [
                  "Water"

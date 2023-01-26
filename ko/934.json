@@ -7,8 +7,8 @@
         "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/934_main.png",
         "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934.gif",
         "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934.gif",
-        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934.gif",
-        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934.gif"
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/934s.gif"
         },
         "types": [
                  "Rock"

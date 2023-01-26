@@ -7,8 +7,8 @@
         "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/940_main.png",
         "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940.gif",
         "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940.gif",
-        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940.gif",
-        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940.gif"
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/940s.gif"
         },
         "types": [
                  "Electric",
