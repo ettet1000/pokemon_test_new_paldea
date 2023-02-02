@@ -93,10 +93,10 @@
 "cards":
 [{"number":"036",
 "name":"Fuecoco",
-"expansionName":"",
+"expansionName":"Fuecoco",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/909_1.png"},{"number":"002",
 "name":"Fuecoco",
-"expansionName":"",
+"expansionName":"Fuecoco",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/909_2.png"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/909.ogg",
 "moves":{"levelUp":[{"level":1,
