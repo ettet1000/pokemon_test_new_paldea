@@ -83,10 +83,10 @@
 "cards":
 [{"number":"046",
 "name":"Greavard",
-"expansionName":"",
+"expansionName":"Greavard",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/971_1.png"},{"number":"087",
 "name":"Greavard",
-"expansionName":"",
+"expansionName":"Greavard",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/971_2.png"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/971.ogg",
 "moves":{"levelUp":[{"level":1,
