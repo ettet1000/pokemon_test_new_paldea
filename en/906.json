@@ -94,10 +94,10 @@
 "cards":
 [{"number":"013",
 "name":"Sprigatito",
-"expansionName":"",
+"expansionName":"Sprigatito",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/906_1.png"},{"number":"001",
 "name":"Sprigatito",
-"expansionName":"",
+"expansionName":"Sprigatito",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/cards/906_2.png"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sounds/906.ogg",
 "moves":{"levelUp":[{"level":1,
