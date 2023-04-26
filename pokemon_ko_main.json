@@ -18029,5 +18029,716 @@
     ],
     "specie": "독물고기",
     "generation": "PALDEA"
+    },
+{
+    "number":"3000",
+    "name":"메가이상해꽃",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3000.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3000_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3000_main.png"
+    },
+    "types": [
+    "Grass",
+    "Poison"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3001",
+    "name":"메가리자몽X",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3001.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3001_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3001_main.png"
+    },
+    "types": [
+    "Fire",
+    "Dragon"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3002",
+    "name":"메가리자몽Y",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3002.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3002_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3002_main.png"
+    },
+    "types": [
+    "Fire",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3003",
+    "name":"메가거북왕",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3003.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3003_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3003_main.png"
+    },
+    "types": [
+    "Water"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3004",
+    "name":"메가독침붕",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3004.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3004_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3004_main.png"
+    },
+    "types": [
+    "Bug",
+    "Poison"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3005",
+    "name":"메가피죤투",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3005.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3005_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3005_main.png"
+    },
+    "types": [
+    "Normal",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3006",
+    "name":"메가후딘",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3006.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3006_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3006_main.png"
+    },
+    "types": [
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3007",
+    "name":"메가야도란",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3007.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3007_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3007_main.png"
+    },
+    "types": [
+    "Water",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3008",
+    "name":"메가팬텀",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3008.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3008_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3008_main.png"
+    },
+    "types": [
+    "Ghost",
+    "Poison"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3009",
+    "name":"메가캥카",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3009.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3009_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3009_main.png"
+    },
+    "types": [
+    "Normal"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3010",
+    "name":"메가쁘사이저",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3010.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3010_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3010_main.png"
+    },
+    "types": [
+    "Bug",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3011",
+    "name":"메가갸라도스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3011.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3011_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3011_main.png"
+    },
+    "types": [
+    "Water",
+    "Dark"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3012",
+    "name":"메가프테라",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3012.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3012_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3012_main.png"
+    },
+    "types": [
+    "Rock",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3013",
+    "name":"메가뮤츠X",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3013.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3013_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3013_main.png"
+    },
+    "types": [
+    "Psychic",
+    "Fighting"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3014",
+    "name":"메가뮤츠Y",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3014.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3014_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3014_main.png"
+    },
+    "types": [
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3015",
+    "name":"메가전룡",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3015.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3015_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3015_main.png"
+    },
+    "types": [
+    "Electric",
+    "Dragon"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3016",
+    "name":"메가강철톤",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3016.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3016_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3016_main.png"
+    },
+    "types": [
+    "Steel",
+    "Ground"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3017",
+    "name":"메가핫삼",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3017.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3017_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3017_main.png"
+    },
+    "types": [
+    "Bug",
+    "Steel"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3018",
+    "name":"메가헤라크로스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3018.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3018_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3018_main.png"
+    },
+    "types": [
+    "Bug",
+    "Fighting"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3019",
+    "name":"메가헬가",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3019.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3019_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3019_main.png"
+    },
+    "types": [
+    "Dark",
+    "Fire"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3020",
+    "name":"메가마기라스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3020.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3020_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3020_main.png"
+    },
+    "types": [
+    "Rock",
+    "Dark"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3021",
+    "name":"메가나무킹",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3021.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3021_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3021_main.png"
+    },
+    "types": [
+    "Grass",
+    "Dragon"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3022",
+    "name":"메가번치코",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3022.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3022_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3022_main.png"
+    },
+    "types": [
+    "Fire",
+    "Fighting"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3023",
+    "name":"메가대짱이",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3023.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3023_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3023_main.png"
+    },
+    "types": [
+    "Water",
+    "Ground"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3024",
+    "name":"메가가디안",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3024.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3024_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3024_main.png"
+    },
+    "types": [
+    "Psychic",
+    "Fairy"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3025",
+    "name":"메가깜까미",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3025.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3025_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3025_main.png"
+    },
+    "types": [
+    "Dark",
+    "Ghost"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3026",
+    "name":"메가입치트",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3026.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3026_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3026_main.png"
+    },
+    "types": [
+    "Steel",
+    "Fairy"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3027",
+    "name":"메가보스로라",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3027.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3027_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3027_main.png"
+    },
+    "types": [
+    "Steel"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3028",
+    "name":"메가요가램",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3028.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3028_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3028_main.png"
+    },
+    "types": [
+    "Fighting",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3029",
+    "name":"메가썬더볼트",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3029.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3029_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3029_main.png"
+    },
+    "types": [
+    "Electric"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3030",
+    "name":"메가샤크니아",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3030.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3030_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3030_main.png"
+    },
+    "types": [
+    "Water",
+    "Dark"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3031",
+    "name":"메가폭타",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3031.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3031_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3031_main.png"
+    },
+    "types": [
+    "Fire",
+    "Ground"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3032",
+    "name":"메가파비코리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3032.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3032_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3032_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Fairy"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3033",
+    "name":"메가다크펫",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3033.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3033_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3033_main.png"
+    },
+    "types": [
+    "Ghost"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3034",
+    "name":"메가앱솔",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3034.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3034_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3034_main.png"
+    },
+    "types": [
+    "Dark"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3035",
+    "name":"메가얼음귀신",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3035.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3035_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3035_main.png"
+    },
+    "types": [
+    "Ice"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3036",
+    "name":"메가보만다",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3036.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3036_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3036_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3037",
+    "name":"메가메타그로스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3037.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3037_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3037_main.png"
+    },
+    "types": [
+    "Steel",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3038",
+    "name":"메가라티아스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3038.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3038_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3038_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3039",
+    "name":"메가라티오스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3039.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3039_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3039_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3040",
+    "name":"메가레쿠쟈",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3040.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3040_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3040_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Flying"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3041",
+    "name":"메가이어롭",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3041.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3041_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3041_main.png"
+    },
+    "types": [
+    "Normal",
+    "Fighting"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3042",
+    "name":"메가한카리아스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3042.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3042_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3042_main.png"
+    },
+    "types": [
+    "Dragon",
+    "Ground"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3043",
+    "name":"메가루카리오",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3043.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3043_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3043_main.png"
+    },
+    "types": [
+    "Fighting",
+    "Steel"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3044",
+    "name":"메가눈설왕",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3044.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3044_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3044_main.png"
+    },
+    "types": [
+    "Poison",
+    "Ground"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+{
+    "number":"3045",
+    "name":"메가엘레이드",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3045.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3045_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3045_main.png"
+    },
+    "types": [
+    "Grass",
+    "Ice"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3046",
+    "name":"메가다부니",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3046.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3046_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3046_main.png"
+    },
+    "types": [
+    "Normal",
+    "Fairy"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
+    },
+    {
+    "number":"3047",
+    "name":"메가디안시",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3047.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3047_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3047_main.png"
+    },
+    "types": [
+    "Rock",
+    "Psychic"
+    ],
+    "specie": "독물고기",
+    "generation": "MEGA"
     }
 ]
