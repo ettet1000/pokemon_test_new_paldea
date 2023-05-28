@@ -17230,6 +17230,21 @@
     "generation": "GENERATION_IX"
     },
     {
+    "number":"1010",
+    "name":  "무쇠잎새",
+    "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1010.png",
+    "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1010_thumb.png",
+    "sprites": {
+    "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/1010_main.png"
+    },
+    "types": [
+             "Water",
+             "Dragon"
+    ],
+    "specie": "애증",
+    "generation": "GENERATION_IX"
+    },    
+    {
     "number": "2000",
     "name": "꼬렛",
     "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/2000.png",
