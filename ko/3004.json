@@ -51,37 +51,22 @@
     "Dark":"1",
     "Steel":"1",
     "Fairy":"½"},"evolutionChain":[{
-    "number":"013",
-    "name":"뿔충이",
-    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/013.png",
-    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/013.png",
-    "type":"FIRST"},{
-    "number":"014",
-    "name":"딱충이",
-    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/014.png",
-    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/014.png",
-    "type":"MIDDLE",
-    "requirement":"Level 7"},{
     "number":"015",
     "name":"독침붕",
     "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/015.png",
     "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/015.png",
-    "type":"LAST",
-    "requirement":"Level 10"}],"previousEvolutions":[{
-    "number":"013",
-    "name":"뿔충이",
-    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/013.png",
-    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/013.png",
     "type":"FIRST"},{
-    "number":"014",
-    "name":"딱충이",
-    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/014.png",
-    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/014.png",
-    "type":"MIDDLE",
-    "requirement":"Level 7"}],"nextEvolutions":[],"superEvolutions":[{"name":"메가독침붕",
-    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/015_mega_1.png",
-    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/015_mega_1.png",
-    "type":"MEGA"}],"baseStats":{"hp":65,"attack":150,"defense":40,"spAtk":15,"spDef":80,"speed":145,"total":495},"cards":[{
+    "number":"3004",
+    "name":"메가독침붕",
+    "imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3004.png",
+    "thumbUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/3004.png",
+    "type":"LAST",
+    "requirement":"독침붕나이트 사용"}],"previousEvolutions":[{
+    "number":"015",
+    "name":"독침붕",
+    "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/015.png",
+    "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/015.png",
+    "type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":65,"attack":150,"defense":40,"spAtk":15,"spDef":80,"speed":145,"total":495},"cards":[{
     "number":"3",
     "name":"독침붕",
     "expansionName":"Chilling Reign",
