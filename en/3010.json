@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3010s.gif"
     },
     "types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
-    "descriptions":["자랑스러운 뿔로 자신의 10배나 무거운 상대를 가볍게 들어 올린 채 날아다닌다."],
+    "descriptions":["With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease."],
     "specie":"Stag Beetle","height":"55.0 kg (121.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Bug"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"175",

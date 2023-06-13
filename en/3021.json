@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3021s.gif"
     },
     "types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
-    "descriptions":["등의 씨앗에는 나무를 건강하게 만드는 영양이 많이 채워져 있다고 전해진다. 숲의 나무를 소중히 키우고 있는 포켓몬이다."],
+    "descriptions":["Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care."],
     "specie":"Forest","height":"52.2 kg (115.1 lbs)","weight":"1.7 m (5′07″)","breeding":{
     "egg":{"groups":["Dragon","Monster"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
     "training":{"evYield":"3 Speed","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"239",

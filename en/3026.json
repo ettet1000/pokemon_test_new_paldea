@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3026s.gif"
     },
     "types":["Steel","Fairy"],"weaknesses":["Fire","Ground"],
-    "descriptions":["2개의 턱은 의지가 있는 것처럼 격렬하게 마구 날뛴다. 한번 물면 암석도 산산조각난다."],
+    "descriptions":["Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."],
     "specie":"Deceiver","height":"11.5 kg (25.4 lbs)","weight":"0.6 m (2′00″)","breeding":{
     "egg":{"groups":["Fairy","Field"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"1 Attack, 1 Defense","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"133",

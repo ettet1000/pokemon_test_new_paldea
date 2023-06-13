@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3008s.gif"
     },
     "types":["Ghost","Poison"],"weaknesses":["Ghost","Dark","Psychic","Ground"],
-    "descriptions":["다른 차원을 통해 어디서든 나타난다. 벽에서 다리만 튀어나왔을 때는 난리가 났었다."],
+    "descriptions":["It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall."],
     "specie":"Shadow","height":"40.5 kg (89.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Amorphous"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"3 Special Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"225",

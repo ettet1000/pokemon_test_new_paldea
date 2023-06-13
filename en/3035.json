@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3035s.gif"
     },
     "types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
-    "descriptions":["대기 중의 수분을 즉시 얼릴 수 있습니다. 이 힘으로 적을 얼립니다.","불에도 녹지 않는 얼음덩어리가 있습니다. 대기 중의 수분을 즉시 얼릴 수 있습니다."],
+    "descriptions":["The power of Mega Evolution was so strong that it smashed Glalie's jaw. Its inability to eat very well leaves Glalie irritated."],
     "specie":"Face","height":"256.5 kg (565.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Fairy","Mineral"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 HP","catchRate":"75 (9.8% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"168",

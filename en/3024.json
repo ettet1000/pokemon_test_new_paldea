@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3024s.gif"
     },
     "types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
-    "descriptions":["사이코 파워로 공간을 비틀어 작은 블랙홀을 만들어 내는 힘을 지녔다. 목숨을 걸고 트레이너를 지키는 포켓몬."],
+    "descriptions":["Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pokémon will try to protect its Trainer even at the risk of its own life."],
     "specie":"Embrace","height":"48.4 kg (106.7 lbs)","weight":"1.6 m (5′03″)","breeding":{
     "egg":{"groups":["Amorphous","Human-Like"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"3 Special Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"233",

@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3027s.gif"
     },
     "types":["Steel","Rock"],"weaknesses":["Water","Fighting","Ground"],
-    "descriptions":["산사태나 산불로 산이 황폐해지면 열심히 흙을 나르고 나무 모종을 심어 자신의 영역을 깨끗히 청소한다."],
+    "descriptions":["Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory."],
     "specie":"Iron Armor","height":"360.0 kg (793.7 lbs)","weight":"2.1 m (6′11″)","breeding":{
     "egg":{"groups":["Monster"],"cycle":"35 (8,739–8,995 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"3 Defense","catchRate":"180 (23.5% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"66",

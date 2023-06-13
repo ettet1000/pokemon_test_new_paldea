@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3047s.gif"
     },
     "types":["Rock","Fairy"],"weaknesses":["Steel","Water","Grass","Ground"],
-    "descriptions":["몸의 표면에 있는 불순물이 떨어져 나가, 빛을 쬐면 맨눈으로는 바로 볼수 없을 정도로 눈부시게 빛난다. 머리의 다이아몬드는 2000캐럿이 넘는다. 그 고상하고 아름다운 모습에서 보통 '로열핑크 프린세스'라고 불린다."],
+    "descriptions":["It can instantly create many diamonds by compressing the carbon in the air between its hands."],
     "specie":"Jewel","height":"8.8 kg (19.4 lbs)","weight":"0.7 m (2′04″)","breeding":{
     "egg":{"groups":["UNKNOWN"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":""},{"type":"FEMALE","percentage":""}]},
     "training":{"evYield":"1 Defense, 2 Special Defense","catchRate":"3 (0.4% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"270",

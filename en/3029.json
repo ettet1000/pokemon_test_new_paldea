@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3029s.gif"
     },
     "types":["Electric"],"weaknesses":["Ground"],
-    "descriptions":["몸에 전기가 너무 쌓여서 화가 나 있다. 낙뢰와 같은 Speed의 순발력을 가졌다."],
+    "descriptions":["Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt."],
     "specie":"Discharge","height":"40.2 kg (88.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Field"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Speed","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"166",

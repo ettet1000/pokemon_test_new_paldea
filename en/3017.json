@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3017s.gif"
     },
     "types":["Bug","Steel"],"weaknesses":["Fire"],
-    "descriptions":["잡는 것보다 때리는 것이 특기다. 장시간을 싸우면 집게의 무게를 견딜 수 없게 된다."],
+    "descriptions":["It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear."],
     "specie":"Pincer","height":"118.0 kg (260.1 lbs)","weight":"1.8 m (5′11″)","breeding":{
     "egg":{"groups":["Bug"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Attack","catchRate":"25 (3.3% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"175",

@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3040s.gif"
     },
     "types":["Dragon","Flying"],"weaknesses":["Fairy","Dragon","Ice","Rock"],
-    "descriptions":["오존층을 날아다니며 먹이인 운석을 먹는다. 체내에 모인 운석의 에너지로 메가진화한다."],
+    "descriptions":["It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve."],
     "specie":"Sky High","height":"206.5 kg (455.3 lbs)","weight":"7.0 m (23′00″)","breeding":{
     "egg":{"groups":["UNKNOWN"],"cycle":"120 (30,584–30,840 steps)"},"genders":[{"type":"UNKNOWN"}]},
     "training":{"evYield":"2 Attack, 1 Special Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"0 (lower than normal)","baseExp":"306",

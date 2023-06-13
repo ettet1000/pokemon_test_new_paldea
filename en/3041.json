@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3041s.gif"
     },
     "types":["Normal"],"weaknesses":["Fighting"],
-    "descriptions":["메가진화에 의해 투쟁 본능이 각성했다. 공격에 방해가 되는 털을 벗어버렸다."],
+    "descriptions":["Mega Evolution awakens its combative instincts. It has shed any fur that got in the way of its attacks."],
     "specie":"Rabbit","height":"33.3 kg (73.4 lbs)","weight":"1.2 m (3′11″)","breeding":{
     "egg":{"groups":["Field","Human-Like"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Speed","catchRate":"60 (7.8% with PokéBall, full HP)","baseFriendship":"140 (higher than normal)","baseExp":"168",

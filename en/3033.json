@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3033s.gif"
     },
     "types":["Ghost"],"weaknesses":["Ghost","Dark"],
-    "descriptions":["버림받은 것에 대한 원한이 그것을 샘솟게 했습니다. 잘 다루면 만족하고 다시 봉제인형이 된다는 말이 있습니다.", "버려지고 홀려버린 봉제인형, 버린 사람을 찾아 원수를 갚습니다."],
+    "descriptions":["Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out."],
     "specie":"Marionette","height":"12.5 kg (27.6 lbs)","weight":"1.1 m (3′07″)","breeding":{
     "egg":{"groups":["Amorphous"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"159",

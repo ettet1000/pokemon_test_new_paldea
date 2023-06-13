@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3007s.gif"
     },
     "types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
-    "descriptions":["셀러의 소화액에 침식된 야돈이 각성했다. 약간의 의욕과 많은 파워를 손에 넣었다."],
+    "descriptions":["Under the influence of Shellder's digestive fluids, Slowpoke has awakened, gaining a great deal of power–and a little motivation to boot."],
     "specie":"Hermit Crab","height":"78.5 kg (173.1 lbs)","weight":"1.6 m (5′03″)","breeding":{
     "egg":{"groups":["Monster","Water 1"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Defense","catchRate":"75 (9.8% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"172",

@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3046s.gif"
     },
     "types":["Normal"],"weaknesses":["Fighting"],
-    "descriptions":["귀의 더듬이가 상대에게 닿으면 심장 소리를 듣고 몸 상태나 기분을 알 수 있다."],
+    "descriptions":["It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling."],
     "specie":"Hearing","height":"31.0 kg (68.3 lbs)","weight":"1.1 m (3′07″)","breeding":{
     "egg":{"groups":["Fairy"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 HP","catchRate":"255 (33.3% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"390",

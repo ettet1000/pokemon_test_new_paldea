@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3023s.gif"
     },
     "types":["Water","Ground"],"weaknesses":["Grass"],
-    "descriptions":["Swampert는 파도 소리나 바닷바람의 아주 작은 차이를 지느러미로 감지하여 태풍을 예감한다. 태풍이 불면 바위를 쌓아서 둥지를 지킨다."],
+    "descriptions":["Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself."],
     "specie":"Mud Fish","height":"81.9 kg (180.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Monster","Water 1"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
     "training":{"evYield":"3 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"241",

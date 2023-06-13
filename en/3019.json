@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3019s.gif"
     },
     "types":["Dark","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
-    "descriptions":["메가진화로 인해 전신이 발열한다. 격렬한 불꽃의 숨결을 뿜어내서 상대를 재로 만들어 버린다."],
+    "descriptions":["Houndoom's entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash."],
     "specie":"Dark","height":"35.0 kg (77.2 lbs)","weight":"1.4 m (4′07″)","breeding":{
     "egg":{"groups":["Field"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Special Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"175",

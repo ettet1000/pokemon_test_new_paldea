@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3036s.gif"
     },
     "types":["Dragon","Flying"],"weaknesses":["Fairy","Dragon","Ice","Rock"],
-    "descriptions":["앞다리를 껍질 틈에 얹어서 비행 태세를 갖춘다. 복잡한 지형도 고속으로 날아다닌다."],
+    "descriptions":["It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features."],
     "specie":"Dragon","height":"102.6 kg (226.2 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Dragon"],"cycle":"40 (10,024–10,280 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"3 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"270",

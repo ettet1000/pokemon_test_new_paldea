@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3037s.gif"
     },
     "types":["Steel","Psychic"],"weaknesses":["Ghost","Fire","Dark","Ground"],
-    "descriptions":["이길 수 없다고 판단하면 발톱으로 상대를 붙잡고 대폭발의 카운트를 시작한다"],
+    "descriptions":["The power of Mega Evolution was so strong that it smashed Glalie's jaw. Its inability to eat very well leaves Glalie irritated."],
     "specie":"Iron Leg","height":"550.0 kg (1212.5 lbs)","weight":"1.6 m (5′03″)","breeding":{
     "egg":{"groups":["Mineral"],"cycle":"40 (10,024–10,280 steps)"},"genders":[{"type":"UNKNOWN"}]},
     "training":{"evYield":"3 Defense","catchRate":"3 (0.4% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"270",

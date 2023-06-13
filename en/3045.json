@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3045s.gif"
     },
     "types":["Psychic","Fighting"],"weaknesses":["Ghost","Fairy","Flying"],
-    "descriptions":["늘었다 줄었다 하는 팔꿈치의 칼날로 싸운다. 칼 뽑기의 명수이며 예의가 바른 포켓몬이다."],
+    "descriptions":["A master of courtesy and swordsmanship, it fights using extending swords on its elbows."],
     "specie":"Blade","height":"52.0 kg (114.6 lbs)","weight":"1.6 m (5′03″)","breeding":{
     "egg":{"groups":["Amorphous","Human-Like"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"100%"}]},
     "training":{"evYield":"3 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"233",

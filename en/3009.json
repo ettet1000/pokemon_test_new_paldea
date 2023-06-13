@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3009s.gif"
     },
     "types":["Normal"],"weaknesses":["Fighting"],
-    "descriptions":["메가진화의 에너지로 새끼가 급성장했다. 부모와 자식의 호흡이 척척 맞는 연계 플레이를 보여준다."],
+    "descriptions":["Its child has grown rapidly, thanks to the energy of Mega Evolution. Mother and child show their harmonious teamwork in battle."],
     "specie":"Parent","height":"80.0 kg (176.4 lbs)","weight":"2.2 m (7′03″)","breeding":{
     "egg":{"groups":["Monster"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
     "training":{"evYield":"2 HP","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"172",

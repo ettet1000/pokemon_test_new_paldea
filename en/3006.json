@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3006s.gif"
     },
     "types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
-"descriptions":["미래예지가 특기다. Alakazam에게 공격이 전혀 통하지 않을 때는 미래를 읽혔다는 뜻이다."],
+"descriptions":["It's adept at precognition. When attacks completely miss Alakazam, that's because it's seeing the future."],
 "specie":"Psi","height":"48.0 kg (105.8 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["Human-Like"],"cycle":"20 (4,884–5,140 steps)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
 "training":{"evYield":"3 Special Attack","catchRate":"50 (6.5% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"225",

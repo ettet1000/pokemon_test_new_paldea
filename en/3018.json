@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3018s.gif"
     },
     "types":["Bug","Fighting"],"weaknesses":["Fire","Psychic","Flying","Fairy"],
-    "descriptions":["굉장한 에너지를 받아서 벌크업한다. 메가진화가 끝나면 심한 근육통에 시달린다."],
+    "descriptions":["A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles."],
     "specie":"Single Horn","height":"54.0 kg (119.0 lbs)","weight":"1.5 m (4′11″)","breeding":{
     "egg":{"groups":["Bug"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Attack","catchRate":"45 (5.9% with PokéBall, full HP)","baseFriendship":"50 (normal)","baseExp":"175",

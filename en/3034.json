@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3034s.gif"
     },
     "types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
-    "descriptions":["메가진화 에너지를 위압적인 오라로 바꿔서 흩뿌리고 있다. 기가 약한 사람은 쇼크사한다."],
+    "descriptions":["It converts the energy from Mega Evolution into an intimidating aura. Fainthearted people expire from shock at the sight of it."],
     "specie":"Disaster","height":"47.0 kg (103.6 lbs)","weight":"1.2 m (3′11″)","breeding":{
     "egg":{"groups":["Field"],"cycle":"25 (6,169–6,425 steps)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
     "training":{"evYield":"2 Attack","catchRate":"30 (3.9% with PokéBall, full HP)","baseFriendship":"35 (lower than normal)","baseExp":"163",

@@ -11,7 +11,7 @@
         "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/sprites/3038s.gif"
     },
     "types":["Dragon","Psychic"],"weaknesses":["Ghost","Ice","Dragon","Dark","Fairy","Bug"],
-    "descriptions":["지능이 높아 사람의 말을 이해한다. 몸을 감싼 유리 같은 깃털로 빛을 굴절시켜 모습을 바꾼다."],
+    "descriptions":["Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance."],
     "specie":"Eon","height":"60.0 kg (132.3 lbs)","weight":"2.0 m (6′07″)","breeding":{
     "egg":{"groups":["UNKNOWN"],"cycle":"120 (30,584–30,840 steps)"},"genders":[{"type":"MALE","percentage":"100%"}]},
     "training":{"evYield":"3 Special Attack","catchRate":"3 (0.4% with PokéBall, full HP)","baseFriendship":"90 (higher than normal)","baseExp":"270",
